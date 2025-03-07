@@ -13,7 +13,7 @@ export default function Hero(){
             <ul className="rules-list">
                 <div className="rule-item">
                     <p><b>Reps</b></p>
-                    <p>Every rep is a pause rep follwoing a <abbr title="2 seconds down - 2 seconds pause - 2 seconds up. No Ego Lifting!"> 2 - 2 - 2 tempo</abbr></p>
+                    <p>Every rep is a pause rep following a <abbr title="2 seconds down - 2 seconds pause - 2 seconds up. No Ego Lifting!"> 2 - 2 - 2 tempo</abbr></p>
                 </div>
                 <div className="rule-item">
                     <p><b>Rest</b></p>

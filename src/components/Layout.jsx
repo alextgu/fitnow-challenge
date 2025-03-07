@@ -4,7 +4,7 @@ export default function Layout(props) {
     
     const header = (
         <header>
-            <h1 className="text-gradient">FitNow Program</h1>
+            <h1 className="text-gradient">FitNow Challenge</h1>
             <p> <strong>The 30 Simple Workouts Program</strong></p>
         </header>
     )
