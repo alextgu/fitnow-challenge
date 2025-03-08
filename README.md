@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Fitnow Challenge</h1>
-<h3> find it here → https://fitnow-challenge.netlify.app/ </h3>
+<h3> find it here → <a href="https://fitnow-challenge.netlify.app/" target=_blank>Fitnow-Challenge</a>  </h3>
 
 
 
