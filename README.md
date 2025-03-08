@@ -120,6 +120,7 @@ Don't forget to give the project a star! Thanks again!
 
 My [Linkedin profile](https://www.linkedin.com/in/alexander-gu-4b891a17b/) <br>
 My [Github profile](https://github.com/alextgu)
+Email: alexnopost.gu@mail.utoronto.ca
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
