@@ -41,10 +41,10 @@
 ## About The Project
 
 <p align="left">
-  <h3> <strong>Fit Now - Challenge 📊💪</strong> </h3>
+  <h3> <strong>FitNow Challenge 📊💪</strong> </h3>
   Log your workouts. Track progress. Stay consistent.<br><br>
 
-  Fit Now - Challenge is a simple and effective workout logging app designed to help beginners track their fitness journey.
+  FitNow Challenge is a simple and effective workout logging app designed to help beginners track their fitness journey.
 </p>
 
 <h3 align="left">🔹 Key Features:</h3>
